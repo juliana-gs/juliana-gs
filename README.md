@@ -1,0 +1,3 @@
+- 👋 Ola, Eu sou @juliana-gs
+- 👀 Estou procurando um espaço na área de testes
+- 🌱 Estudando sobre testes automatizados
